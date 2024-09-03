@@ -3,6 +3,7 @@ RENTIFY:
 Rentify is a property that has that has features of filtering by location ,prices and no of beds.and also the cart facility to add and remove the cart.if you are purchased deliviary inforamation. this website is responsive .
 
 Lanuages Used:
+
 HTML, Tailwind CSS, Javascript, and React.js
 
 Steps to run the Project:
