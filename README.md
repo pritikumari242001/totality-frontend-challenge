@@ -4,7 +4,7 @@ Rentify is a property that has that has features of filtering by location ,price
 
 Lanuages Used:
 
-HTML, Tailwind CSS, Javascript, and React.js
+HTML, CSS, Javascript, and React.js
 
 Steps to run the Project:
 1. npm install
