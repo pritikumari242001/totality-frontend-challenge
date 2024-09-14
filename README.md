@@ -11,4 +11,4 @@ Steps to run the Project:
 2. npm run dev
 
 Live Link:
-[https://totality-frontend-challenge1.netlify.app/]
+[https://app.netlify.com/sites/priti-rentify/overview]
